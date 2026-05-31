@@ -1,0 +1,5 @@
+com\mycompany\galerieartproject\Oeuvre.class
+com\mycompany\galerieartproject\PrimaryController.class
+com\mycompany\galerieartproject\App.class
+com\mycompany\galerieartproject\HibernateUtil.class
+com\mycompany\galerieartproject\OeuvreService.class
